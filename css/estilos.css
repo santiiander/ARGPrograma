@@ -1,0 +1,17 @@
+p{
+    color: red;
+
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+
+    border: 50px;
+    padding: 5px;
+    margin: 10px;
+    color: blueviolet;
+    font-weight: bold;
+
+}
+body{
+    background-color: lightgreen;
+}
